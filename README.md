@@ -1,2 +1,2 @@
-# MedTecn
+# MedTech
 UHC project
